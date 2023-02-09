@@ -6,8 +6,8 @@ You can see this [here](https://smelecrinis.github.io/QrCodeGeneratorAPI/)
 
 ### Key concepts covered:
 
-HTML fieldset
-fetch()
-URLSearchParams
+* HTML fieldset
+* fetch()
+* URLSearchParams
 
 ![This is an image](https://github.com/smelecrinis/QrCodeGeneratorAPI/blob/master/QrCodeImage.png)
